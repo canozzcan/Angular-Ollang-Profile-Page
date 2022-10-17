@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      ollang: ['PT Sans Narrow', 'sans-serif']
+    },
   },
   plugins: [],
 }
